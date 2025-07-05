@@ -1,0 +1,14 @@
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\bin\Debug\net9.0\Semana1_CalculadoraEdad.exe
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\bin\Debug\net9.0\Semana1_CalculadoraEdad.deps.json
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\bin\Debug\net9.0\Semana1_CalculadoraEdad.runtimeconfig.json
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\bin\Debug\net9.0\Semana1_CalculadoraEdad.dll
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\bin\Debug\net9.0\Semana1_CalculadoraEdad.pdb
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\obj\Debug\net9.0\Semana1_CalculadoraEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\obj\Debug\net9.0\Semana1_CalculadoraEdad.AssemblyInfoInputs.cache
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\obj\Debug\net9.0\Semana1_CalculadoraEdad.AssemblyInfo.cs
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\obj\Debug\net9.0\Semana1_CalculadoraEdad.csproj.CoreCompileInputs.cache
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\obj\Debug\net9.0\Semana1_CalculadoraEdad.dll
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\obj\Debug\net9.0\refint\Semana1_CalculadoraEdad.dll
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\obj\Debug\net9.0\Semana1_CalculadoraEdad.pdb
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\obj\Debug\net9.0\Semana1_CalculadoraEdad.genruntimeconfig.cache
+C:\Users\Cyberdark\Desktop\CURSO.NET\Semana1_CalculadoraEdad\obj\Debug\net9.0\ref\Semana1_CalculadoraEdad.dll
